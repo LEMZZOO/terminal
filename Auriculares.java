@@ -22,5 +22,9 @@ public class Auriculares{
     public boolean getCancelacionDeRuido(){
         return cancelacionDeRuido;
     }
+    
+    public void imprimirDetalles(){
+        System.out.println("dbMax:" + dbMax + ", Cancelación de ruido:" + cancelacionDeRuido);
+    }
 }
 

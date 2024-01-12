@@ -2,4 +2,14 @@
 comment0.target=Auriculares
 comment1.params=
 comment1.target=Auriculares()
-numComments=2
+comment2.params=
+comment2.target=int\ getDbMax()
+comment3.params=dbMax
+comment3.target=void\ setDbMax(int)
+comment4.params=cancelacionDeRuido
+comment4.target=void\ setCancelacionDeRuido(boolean)
+comment5.params=
+comment5.target=boolean\ getCancelacionDeRuido()
+comment6.params=
+comment6.target=void\ imprimirDetalles()
+numComments=7
