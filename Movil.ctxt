@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Movil
+comment1.params=marcaMovil\ memoriaRAM\ misAuriculares
+comment1.target=Movil(java.lang.String,\ int,\ Auriculares)
+numComments=2
