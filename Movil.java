@@ -8,4 +8,16 @@ public class Movil {
        this.memoriaRAM = 16;
        this.misAuriculares = misAuriculares;
     }
+
+    public String getMarcaMovil() {
+        return marcaMovil;
+    }
+
+    public int getMemoriaRAM() {
+        return memoriaRAM;
+    }
+
+    public Auriculares getMisAuriculares() {
+        return misAuriculares;
+    }
 }

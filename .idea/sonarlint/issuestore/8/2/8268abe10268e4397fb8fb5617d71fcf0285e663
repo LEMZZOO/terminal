@@ -1,7 +1,3 @@
 
-P
-java:S1068".Remove this unused "marcaMovil" private field.(Õ¨Ð¨üÿÿÿÿ8ßÑÄƒÓ1
-P
-java:S1068".Remove this unused "memoriaRAM" private field.(Ä¬›‡ùÿÿÿÿ8ßÑÄƒÓ1
-T
-java:S1068"2Remove this unused "misAuriculares" private field.(³¬ ðûÿÿÿÿ8ßÑÄƒÓ1
+M
+java:S1172"1Remove this unused method parameter "memoriaRAM".(ãü®8…ŽÆ­Ó1
